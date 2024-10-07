@@ -1,7 +1,7 @@
 # Language-Translation-using-Python-and-Google-API
 
-## Overview*
-- Developed an accessible language translation tool for effective communication across diverse linguistic backgrounds. ---
+## Overview
+- Developed an accessible language translation tool for effective communication across diverse linguistic backgrounds.
 - Implemented a user-friendly interface using Tkinter and Google Translate API.
 
 
