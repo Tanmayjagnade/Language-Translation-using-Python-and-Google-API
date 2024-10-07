@@ -28,7 +28,7 @@ source_language_label.grid(row=0, column=0, padx=10, pady=10)
 # Source Language Dropdown
 source_language = StringVar(root)
 source_language.set("en") # default value
-source_language_dropdown = OptionMenu(root, source_language, "en", "es", "fr", "de", "ru")
+source_language_dropdown = OptionMenu(root, source_language, "en", "es","hi","mr", "fr", "de", "ru")
 source_language_dropdown.config(bg=button_color)
 source_language_dropdown.grid(row=0, column=1, padx=10, pady=10)
 
@@ -39,7 +39,7 @@ destination_language_label.grid(row=1, column=0, padx=10, pady=10)
 # Destination Language Dropdown
 destination_language = StringVar(root)
 destination_language.set("es") # default value
-destination_language_dropdown = OptionMenu(root, destination_language, "en", "es", "fr", "de", "ru")
+destination_language_dropdown = OptionMenu(root, destination_language, "en", "hi","mr","es", "fr", "de", "ru")
 destination_language_dropdown.config(bg=button_color)
 destination_language_dropdown.grid(row=1, column=1, padx=10, pady=10)
 
