@@ -33,4 +33,3 @@
 2. Install required dependencies using pip install -r requirements.txt.
 3. Run the application using python (link unavailable)
 4. Access the application through a web browser at http://localhost:5000.
-
